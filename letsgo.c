@@ -7,7 +7,7 @@
 #define quad 103
 #define r 1
 #define c 1
-
+//new feature
 char punto[1]{quad};
 char lati[r][c];
 
