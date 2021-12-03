@@ -10,7 +10,9 @@
 //new feature
 char punto[1]{quad};
 char lati[r][c];
-
+/* added comment from rep1 (machine1) */
+//another comment from rep1(machine1)
+/*added comment from rep2 (machine2) */
 
 void fill(){
 	int i,j;
